@@ -15,6 +15,7 @@ CREATE TABLE Vehicle (
     ID INT NOT NULL AUTO_INCREMENT,
     Make VARCHAR(50),
     Model VARCHAR(50),
+    Kind VARCHAR(50),
     Year INT(4),
     LicenseCurrent VARCHAR(7),
     PRIMARY KEY (ID)
