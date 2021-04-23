@@ -1,2 +1,2 @@
 # GitFun4me
- Testing and various cool stuff
+Testing and various cool stuff
